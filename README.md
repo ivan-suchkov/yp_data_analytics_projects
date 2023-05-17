@@ -5,3 +5,4 @@
 |**проект**|**описание проекта**|**используемые библиотеки**|
 |:---------|:-------------------|:----------------------------|
 |[Исследование рынка общепита в Москве](https://github.com/ivan-suchkov/yp_data_analytics_projects/blob/main/moscow_cafe/moscow_cafe.ipynb)|1) Исследование рынка общественного питания в Москве на основе открытых данных; 2) детализация исследования: открытие кофейни|Pandas, Matplotlib, Seaborn, Plotly, Folium|
+|[Анализ рекламных источников мобильной игры](https://github.com/ivan-suchkov/yp_data_analytics_projects/blob/main/game_marketing_analytics/game_marketing_analytics.ipynb)|Анализ поведения игроков в игровом приложении в зависимости от источника перехода: исследовательский анализ данных и проверка статистических гипотез|Pandas, Numpy, Datetime, Scipy, Statistics, Math, Matplotlib, Seaborn|
