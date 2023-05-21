@@ -27,7 +27,7 @@
 ---
 
 ### Используемые библиотеки:
-Pandas, Numpy, Datetime, Scipy, Statistics, Math, Matplotlib, Seaborn, 
+Pandas, Numpy, Datetime, Scipy, Statistics, Math, Matplotlib, Seaborn
 
 ---
 
